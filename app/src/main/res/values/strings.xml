@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Chemistry Lab</string>
+    <string name="app_name">ChemistryLab</string>
     <string name="menu_1">Dụng Cụ Thí Nhiệm</string>
     <string name="menu_2">Dung Dịch</string>
     <string name="menu_3">Chất Rắn</string>

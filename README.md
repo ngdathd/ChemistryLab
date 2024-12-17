@@ -1,9 +1,25 @@
-# ChemistryLab
-Virtual Chemistry Lab android app<br/>
-APK: https://drive.google.com/open?id=0B3j_vw_l37PjYzRnaTNxUmtZakU
 
-![alt text](https://drive.google.com/uc?id=1paG6i4HcmQq70JHG4xek-IOIMzfU2XM1)
-![alt text](https://drive.google.com/uc?id=1lNnDuON5obHVYmYeiiWXlEHWvrvF8tpt)
-![alt text](https://drive.google.com/uc?id=1mVhLFONE-NjFj0wxTYxC3Ojl0M6_XL9U)
-![alt text](https://drive.google.com/uc?id=1IhonbUY5LvjpjMQJhYNC9JdqYX9cERR0)
-![alt text](https://drive.google.com/uc?id=1OqyrZAKyiEZIAbmE7vDD2aEd2dOe3jeB)
+## 💝 Ủng hộ tôi
+
+### Nếu bạn thấy dự án của tôi hữu ích và muốn ủng hộ tôi, hãy quét mã QR bên dưới:
+
+| ![QR Code for MoMo](./img_github_momo_donate.png)                                                                             | ![Thank you](./img_thank_you.gif) | ![QR Code for Bank](./img_github_tech_donate.png) | ![Thank you](./img_thank_you.gif) |
+|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|---------------------------------------------------|-----------------------------------|
+| **Momo:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>0981054498 - NGUYEN ANH DAT** | **Thank you 🙌**                  | **Techcombank:<br/>1981054498 - NGUYEN ANH DAT**  | **Thank you 🙌**                  |
+
+### Cảm ơn sự hào phóng của bạn! 🙌
+
+---
+
+## Giới thiệu ứng dụng ChemistryLab
+
+### Mô tả
+
+- Ứng dụng **ChemistryLab** có ngôn ngữ lập trình là `Android - Java`. Tôi code cơ bản và dễ hiểu, phù hợp với ai mới học. Tôi cũng đã cập nhật, bạn chỉ cần tải về và chạy.
+- Ứng dụng **ChemistryLab** là một ứng dụng mô phỏng thí nghiệm hoá học.
+
+#### Màn hình
+
+| ![](./Screenshot_1734064259.png)  | ![](./Screenshot_1734338135.png)  |  
+|-----------------------------------|-----------------------------------|
+| ![](./Screenshot_1734338139.png)  | ![](./Screenshot_1734338146.png)  |
